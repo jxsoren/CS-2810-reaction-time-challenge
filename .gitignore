@@ -1,0 +1,33 @@
+# Python (Raspberry Pi code)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+.env
+
+# Arduino
+*.hex
+*.elf
+*.eep
+*.lss
+*.map
+*.sym
+build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+leaderboard.txt
+scores.db
+*.log
+
